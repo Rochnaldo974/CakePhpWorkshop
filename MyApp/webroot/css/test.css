@@ -1,0 +1,21 @@
+.layout{
+    background-color: grey;
+    width: auto;
+    height: 100px;
+    align-items: center;
+}
+
+.title {
+    width: 200px;
+    height: 100px;
+}
+
+.princ {
+    text-align: center;
+    
+}
+
+.variable {
+    margin-top: 200px;
+    background-color: green;
+}
