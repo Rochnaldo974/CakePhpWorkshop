@@ -11,5 +11,4 @@ class HomeController extends AppController
         $this->set(compact("test"));
     }
 }
-
 ?>
